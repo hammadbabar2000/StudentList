@@ -4,8 +4,12 @@
  */
 package week3;
 
-/**
- *
+/** model class 
+ * define an entity Student - attributes name , sid, age et , functions / methods etc 
+ * encapsulation principle - object oriented design principles - private variables then generate getters and setters
+ * local rep code in laptop: to github remote rep
+ * Local rep configuration : 1. initialize version 2. .gitconfig file, 3. .gitignore
+ * netbeans code - working tree code - saved to local rep - commit;
  * @author hamma
  */
 public class Student {

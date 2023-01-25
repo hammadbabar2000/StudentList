@@ -4,8 +4,10 @@
  */
 package week3;
 
-/**  Array of objects - java example : printing  student details
- *
+/** Array of objects - java example : printing studentdetails
+ *   project - share to github : colloboration tool , tracking changes keep history - version control software
+ * char[] reverse = new char[word.length()]; - reverse of word 
+ * print 3 students details are name, age store in array then prints -- array of objects
  * @author hammad
  */
 public class Week3 {
